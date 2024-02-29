@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zoule41
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning spatio-temporal big data
-- 💞️ I’m looking to collaborate on COVID-19 prediction models
+- 💞️ I am committed to solving the problem of medical multimodal data analysis and modeling
 - 📫 How to reach me 283698626@qq.com
 
 <!---
